@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://tungnt:lonpro68@cluster0.fby82.mongodb.net/socialdev?retryWrites=true&w=majority",
+    "jwtSecret": "secret",
+    "githubToken": "5341eabd16b642a68aef85d0dcc5d21770394885"
+  }
